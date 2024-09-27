@@ -1,5 +1,9 @@
+<!DOCTYPE html>
 <html>
-<body>
-	<h1 style="color: green; font-size: 40px;" align="left">Santhosh Kadarla -AWS DEVOPS TRAINING - We don't just train people; we COACH, MENTOR, and BUILD PEOPLE !! </h1>
+<body style="background-color:Tomato;">
+
+<h1>Deploying the code using Jenkins, Build through Maven, cloned from Git Hub and Deployed in Tomcat Server</h1>
+<p>By Santhosh Kadarla</p>
+
 </body>
 </html>
